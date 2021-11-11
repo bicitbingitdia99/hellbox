@@ -26,7 +26,7 @@ html-telegraph-poster
 # lottie
 # lyricsgenius
 nekos.py
-opencv-python-headless
+# opencv-python-headless
 # patool
 # Pillow
 # prettytable
@@ -38,7 +38,7 @@ pygments
 pylast
 pymediainfo
 pySmartDL
-python-barcode
+# python-barcode
 python-dotenv
 pytz
 # qrcode
@@ -48,12 +48,12 @@ requests
 # selenium
 # setuptools==47.1.1
 # spamwatch
-speedtest-cli
+# speedtest-cli
 sqlalchemy==1.3.23
 telegraph
 telethon
 tgcrypto
-validators
+# validators
 # vcam
 # vcsi
 # wand
